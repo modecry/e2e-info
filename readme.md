@@ -7,11 +7,6 @@
 
 `npm install`
 
-### Установка пакетов для тестов
-`cd ./example-tests/`
-
-`npm install`
-
 ### Запуск фронта
 
 `cd ./example-client/`
